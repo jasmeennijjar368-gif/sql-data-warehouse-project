@@ -35,6 +35,8 @@ The project follows the Medallion Architecture:
 - Bronze Layer: Stores raw data.
 - Silver Layer: Cleans and transforms data.
 - Gold Layer: Contains analytical tables ready for reporting.
+  <img width="672" height="703" alt="Data Architecture" src="https://github.com/user-attachments/assets/6f9e5fb6-3043-4ca9-90a6-c31be8d816ea" />
+
    
 ## Project Overview
 In this project, I:
